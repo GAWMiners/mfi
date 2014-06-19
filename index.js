@@ -5,7 +5,7 @@ var express = require('express')
   , baseUrl = 'https://api.hipchat.com/v1/rooms/message?format=json&auth_token='
   , request = require('request')
 
-log.heading = 'webhooks'
+log.heading = 'mfi'
 
 var mfi = exports
 
