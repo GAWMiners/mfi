@@ -1,6 +1,6 @@
 {
   "name": "mfi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Webhooks server for mFi that posts to HipChat",
   "main": "index.js",
   "dependencies": {
